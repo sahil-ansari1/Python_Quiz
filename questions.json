@@ -1,0 +1,67 @@
+[
+  {
+    "question": "What is the output of print(2 + 3 * 4)?",
+    "options": ["20", "14", "24", "None of these"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which data type is immutable in Python?",
+    "options": ["list", "dict", "tuple", "set"],
+    "answer_index": 2
+  },
+  {
+    "question": "What does len() function return?",
+    "options": ["Number of items", "Converts to int", "Prints value", "Creates list"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["def", "func", "function", "define"],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the output of 3**2 in Python?",
+    "options": ["6", "9", "8", "None of these"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which operator is used for floor division?",
+    "options": ["/", "//", "%", "**"],
+    "answer_index": 1
+  },
+  {
+    "question": "How do you insert comments in Python code?",
+    "options": ["// comment", "# comment", "/* comment */", "<!-- comment -->"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which method converts a string to lowercase?",
+    "options": ["lower()", "case()", "tolower()", "lowercase()"],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the output of bool(0)?",
+    "options": ["True", "False", "0", "None"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which of the following is a Python tuple?",
+    "options": ["[1,2,3]", "{1,2,3}", "(1,2,3)", "None of these"],
+    "answer_index": 2
+  },
+  {
+    "question": "Which keyword is used to create a class in Python?",
+    "options": ["class", "object", "def", "struct"],
+    "answer_index": 0
+  },
+  {
+    "question": "What will len([1, 2, 3, 4]) return?",
+    "options": ["3", "4", "5", "None"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which Python data type allows duplicate elements?",
+    "options": ["set", "dict", "list", "tuple"],
+    "answer_index": 2
+  }
+]
